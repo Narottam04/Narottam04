@@ -12,12 +12,15 @@
 
 - ⚡ Fun fact **I like to draw superheroes, portrait and play guitar**
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- 👨‍💻 All of my projects are available at [webdrip.in](https://webdrip.in/)
+
+- 📝 I regularly write articles on [blog.webdrip.in](https://blog.webdrip.in/)
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
 ## **Connect with me:**
 
