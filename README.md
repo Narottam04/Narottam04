@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Develop cool projects and at the very least win one hackathon
 
 - 💬 Ask me about anything, I am happy to help;
 
