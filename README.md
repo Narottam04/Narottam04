@@ -32,7 +32,7 @@
 <a href="https://instagram.com/https://www.instagram.com/_webdrip/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_webdrip/" height="30" width="40"style = "padding : 0 1rem" /></a>
 </p>
 
-## Recent Blog Posts
+## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Seamlessly Convert Web Apps to Android App: Automate with Capacitor and GitHub Actions](https://dev.to/narottam04/seamlessly-convert-web-apps-to-android-app-automate-with-capacitor-and-github-actions-4e26)
 - [My Experience In Tackling Critical Dependency Issues In React Native](https://dev.to/narottam04/my-experience-in-tackling-critical-dependency-issues-in-react-native-o26)
