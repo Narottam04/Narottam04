@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Narottam Sahu</h1>
-<h3 align="center">I'm CS undergraduate,learning new stuff everyday!</h3>
+<h3 align="center">Learning and building new stuff!</h3>
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2022 Goals: Develop cool projects and deploy it to playstore
+- 🥅 2023 Goals: Develop cool projects and deploy it to playstore
 
 - 💬 Ask me about anything, I am happy to help;
 
