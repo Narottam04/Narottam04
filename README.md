@@ -37,6 +37,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seamlessly Convert Web Apps to Android App: Automate with Capacitor and GitHub Actions](https://dev.to/narottam04/seamlessly-convert-web-apps-to-android-app-automate-with-capacitor-and-github-actions-4e26)
+- [My Experience In Tackling Critical Dependency Issues In React Native](https://dev.to/narottam04/my-experience-in-tackling-critical-dependency-issues-in-react-native-o26)
+- [Stonks - Realtime Trading Simulator [Linode DEV Hackathon]](https://dev.to/narottam04/stonks-realtime-trading-simulator-linode-dev-hackathon-i2p)
+- [SignLanguage - Learn ASL Practically - &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/narottam04/signlanguage-learn-asl-practically-mongodb-atlas-hackathon-2022-submission-2cl7)
+- [Introducing Cryptocademy: A real time virtual crypto trading simulator](https://dev.to/narottam04/introducing-cryptocademy-a-real-time-crypto-trading-simulator-15ca)
 <!-- BLOG-POST-LIST:END -->
 
 
